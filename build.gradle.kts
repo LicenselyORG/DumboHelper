@@ -1,6 +1,6 @@
 plugins {
     id("common-conventions")
-    id("io.freefair.lombok") version "8.4"
+    id("io.freefair.lombok") version "8.10.2"
 }
 
 dependencies {
